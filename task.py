@@ -28,4 +28,4 @@ def read_directory(path_dir: str) -> list:
 
 if __name__ == '__main__':
     path_dir = 'C:\\python tasks\\DZ\\Seminar8_Python_CherleniakAnna\\test'
-    directory_in_json('result.txt', path_dir)
+    directory_in_json('result.json', path_dir)
